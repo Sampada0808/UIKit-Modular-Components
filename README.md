@@ -6,7 +6,7 @@ Welcome to the **UIKit Component Library**, a collection of daily UIKit feature 
 
 ## 📂 Folder Overview
 
-### 1. [PullToRefreshUIKit]([./PullToRefreshUIKit))  
+### 1. [PullToRefreshUIKit](https://github.com/Sampada0808/UIKit-Modular-Components/tree/main/PullToRefreshUIKit)  
 A complete product listing feature with:  
 - Pull-to-refresh using `UIRefreshControl`  
 - Empty state UI (image + label)  
