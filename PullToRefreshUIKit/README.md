@@ -15,10 +15,11 @@ This is a reusable UIKit component that implements a product listing page with m
 
 ---
 ### 📸 Implementation Screenshots
-
-<img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/PullToRefreshUIKit/PullToRefreshUIKit1.jpg" width="300" />
-<img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/PullToRefreshUIKit/PullToRefreshUIKit2.jpg" width="300" />
-<img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/PullToRefreshUIKit/PullToRefreshUIKit3.jpg" width="300" />
+<p align="center">
+<img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/PullToRefreshUIKit/PullToRefreshUIKit1.jpg" width="30%" />
+<img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/PullToRefreshUIKit/PullToRefreshUIKit2.jpg" width="30%" />
+<img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/PullToRefreshUIKit/PullToRefreshUIKit3.jpg" width="30%" />
+</p>
 
 ---
 
