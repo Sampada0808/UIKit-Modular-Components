@@ -32,8 +32,8 @@ Feel free to suggest improvements, report issues, or add new UIKit features via 
 
 ---
 
-## ⚖️ License
-
+## 📄 License
+This project is licensed under the MIT License. [See License](https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/LICENSE.md) for more details
 
 
 ---
