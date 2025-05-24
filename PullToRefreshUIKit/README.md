@@ -19,7 +19,7 @@ This is a reusable UIKit component that implements a product listing page with m
 
 Click below to watch the implementation video:
 
-➡️ [Watch PullToRefreshUIKit Demo](https://github.com/username/UIKit-Modular-Components/blob/main/ImplementationVideos/PullToRefreshUIKit.mp4)
+➡️ [Watch PullToRefreshUIKit Demo](https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationVideos/PullToRefreshUIKit.mp4)
 
 
 ---
