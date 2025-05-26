@@ -15,6 +15,12 @@ A complete product listing feature with:
 - Real-world API data integration  
 - Layout inspired by Amazon product listings
 
+### 2. [UIKitSearchFeature](https://github.com/Sampada0808/UIKit-Modular-Components/tree/main/UIKitSearchFeature)  
+A lightweight  dictionary app  listing feature with: 
+- Search bar with real-time filtering using `UISearchBar`  
+- Displays word definition, synonyms, example usage, phonetics, and audio pronunciation
+- Clean and minimal UI using UIKit components
+
 ---
 
 ## 🚀 How to Use
