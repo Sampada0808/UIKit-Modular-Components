@@ -60,7 +60,7 @@ Click below to watch the implementation video:
 
 ## 📃 License
 
-MIT License — feel free to use, modify, and contribute.
+This project is licensed under the MIT License — feel free to use, modify, and contribute.
 
 ---
 
