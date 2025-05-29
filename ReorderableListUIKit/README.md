@@ -19,10 +19,10 @@ A feature-rich bucket list app built using UIKit with support for managing wishl
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit1.png" width="30%" />
-  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit2.png" width="30%" />
-  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit3.png" width="30%" />
-  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit4.png" width="30%" />
+  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit1.png" width="23%" />
+  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit2.png" width="23%" />
+  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit3.png" width="23%" />
+  <img src="https://github.com/Sampada0808/UIKit-Modular-Components/blob/main/ImplementationPhotos/ReorderableListUIKit/ReorderableListUIKit4.png" width="23%" />
 </p>
 
 ---
