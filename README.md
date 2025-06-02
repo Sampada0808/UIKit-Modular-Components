@@ -31,6 +31,14 @@ A bucket list app supporting:
 - Supports both dark and light system themes
 - Built fully with UIKit, no external libraries
 
+### 4. [AnimatedUIComponents](https://github.com/Sampada0808/UIKit-Modular-Components/tree/main/AnimatedUIComponents)   
+A collection of reusable UIKit animation modules:
+
+- Custom loading spinner using `CAShapeLayer` and `CABasicAnimation`
+- Bounce effect `UIButton` subclass
+- Fade in/out UIView extension
+- Slide-in side menu with shadow overlay
+
 ---
 
 ## 🚀 How to Use
